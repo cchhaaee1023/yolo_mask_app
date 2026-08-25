@@ -1,8 +1,9 @@
 streamlit
 ultralytics
-streamlit-webrtc
 opencv-python-headless
-numpy
+streamlit-webrtc
 av
+numpy<2
 torch
+torchvision
 setuptools
