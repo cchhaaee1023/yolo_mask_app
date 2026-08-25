@@ -3,7 +3,7 @@ ultralytics
 opencv-python-headless
 streamlit-webrtc
 av
-numpy<2
+numpy
 torch
 torchvision
 setuptools
